@@ -37,15 +37,21 @@ gambar yang di ujicoba adalah buah melon. Gambarnya sebagai berikut:
 
 pertama, kita akan bahas untuk pengujian pada MeanFiltering dan MedianFiltering. Hasil dari filtering akan tampak sebagai berikut.
 
-![https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/melon_noise.jpg](https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/melon_noise.jpg)
+- Mean
+
+![https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/meanf.png](https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/meanf.png)
+
+- Median
+
+![https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/medianf.png](https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/medianf.png)
 
 sedangkan ketika image diberikan bluring dengan metode Gaussian, hasilnya sebagai berikut:
 
-![https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/melonfilter.jpg](https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/melonfilter.jpg)
+![https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/gaussian.png](https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/gaussian.png)
 
 Pada gambar dibawah ini adalah hasil ujicoba terhadap S&P, yaitu Salt dan Papper. Memberikan noise bintik berwarna putih (salt) dan noice berwarna hitam (pepper). Hasilnya sebagai berikut:
 
-![https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/noisee.jpg](https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/noisee.jpg)
+![https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/s%26p.png](https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/s%26p.png)
 
 ## Komparasi
 
