@@ -59,10 +59,9 @@ Komparasi dilakukan secara objektif terhadap hasil ujicoba. Peniliannya akan dib
 
 | Nama Metode Filtering  | Bobot |
 | ------------- | ------------- |
-| Salt & Pepper Noise  | 0 |
-| Mean Filter  | 0 |
-| Median Filter  | 0 |
-| Pepper Noise  | 0 |
-| Gaussian Noise  | 0 |
-| Speckle Noise  | 0 |
-| Periodic Noise  | 0 |
+| Mean Filter  | 9 |
+| Median Filter*  | 10 |
+| Gaussian Filter  | 8 |
+| Low Pass Filter  | 0 |
+| High Pass Filter  | 0 |
+| Band Pass Filter  | 0 |
