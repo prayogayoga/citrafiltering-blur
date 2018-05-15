@@ -33,19 +33,19 @@ sedangkan untuk periodic noise gunakan filter di domain frekuensi yaitu mengguna
 
 gambar yang di ujicoba adalah buah melon. Gambarnya sebagai berikut:
 
-![](image.jpg)
+![https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/melon.jpg](https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/melon.jpg)
 
 pertama, kita akan bahas untuk pengujian pada MeanFiltering dan MedianFiltering. Hasil dari filtering akan tampak sebagai berikut.
 
-![](image.jpg)
+![https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/melon_noise.jpg](https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/melon_noise.jpg)
 
 sedangkan ketika image diberikan bluring dengan metode Gaussian, hasilnya sebagai berikut:
 
-![](image.jpg)
+![https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/melonfilter.jpg](https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/melonfilter.jpg)
 
 Pada gambar dibawah ini adalah hasil ujicoba terhadap S&P, yaitu Salt dan Papper. Memberikan noise bintik berwarna putih (salt) dan noice berwarna hitam (pepper). Hasilnya sebagai berikut:
 
-![](image.jpg)
+![https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/noisee.jpg](https://raw.githubusercontent.com/prayogayoga/citrafiltering-blur/master/noisee.jpg)
 
 ## Komparasi
 
