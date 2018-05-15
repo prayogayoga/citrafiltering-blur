@@ -1,6 +1,9 @@
 import numpy as np
 import os
 import cv2
+
+# TODO (speckle & possion)
+
 def noisy(noise_typ,image):
    if noise_typ == "gauss":
       row,col,ch= image.shape
